@@ -4,7 +4,7 @@
 
 #### Front-end Web Developer
 
-I am a front-end web developer. I want to be a good web developer in next 2 years.
+I am a front-end web developer. I want to be a senior web developer in next 2 years.
 
 Skills: HTML / CSS / Tailwind / JS / React / Node / Express / MongoDB
 
